@@ -93,9 +93,13 @@
   <a href="https://www.linkedin.com/in/adam-bodicoat">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+</p>
+<p align="center"> 
   <a href="https://letterboxd.com/adxmb">
     <img src="https://img.shields.io/badge/Letterboxd-fe7f03?style=for-the-badge&logo=letterboxd&logoColor=white"/>
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/adxmb/adxmb/raw/main/adam_bodicoat_resume.pdf">
     <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </p>
