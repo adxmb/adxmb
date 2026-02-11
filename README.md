@@ -1,5 +1,5 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">A Bit About Me -- Adam (adxmb)</h1>
+<h1 align="center">A Bit About Me (adxmb)</h1>
 
 <h3 align="center">
   <a href="https://github.com/adxmb">
