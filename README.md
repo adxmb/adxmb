@@ -57,7 +57,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### Neural Network for Accent Classification
+### Accent Recognition Neural Network
 
 <p>Built a neural network from scratch in Python to classify English, Scottish, and American accents from audio recordings to understand how some machine learning models and smart systems work</p>
 
@@ -71,7 +71,7 @@
 
 <td width="50%" valign="top">
 
-### AI Plant Matcher
+### Plantr: AI Plant Matcher
 
 <p>1st Place in UoA DEVS Hackathon 2024</p>
 
