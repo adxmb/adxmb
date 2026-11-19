@@ -63,7 +63,7 @@
 
 <p>Explored training strategies and model optimisation</p>
 
-**Stack:** Python, NumPy, Flask
+**Technologies:** Python, NumPy, Docker
 
 [Repository](https://github.com/adxmb/neural-network)
 
@@ -77,7 +77,7 @@
 
 <p>Built a full-stack application in 48 hours leveraging OpenAI for intelligent plant preference matching and Pixabay API for image generation</p>
 
-**Stack:** React, Node.js, OpenAI API
+**Technologies:** React, Node.js, OpenAI API
 
 [Repository](https://github.com/LocalhostLtd/DEV-Hackathon-2024)
 
