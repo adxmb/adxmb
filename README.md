@@ -59,7 +59,7 @@
 
 ### Neural Network for Accent Classification
 
-<p>Built a custom neural network in Python to classify English accents using a self-curated dataset</p>
+<p>Built a neural network from scratch in Python to classify English, Scottish, and American accents from audio recordings to understand how some machine learning models and smart systems work</p>
 
 <p>Explored training strategies and model optimisation</p>
 
